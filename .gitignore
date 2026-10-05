@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos compilados
+*.class
+out/
+target/
+build/
+
+# Variables de entorno y secretos
+.env
+.env.*
+*.key
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
